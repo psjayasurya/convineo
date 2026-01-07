@@ -71,7 +71,7 @@
   var viewer = new Marzipano.Viewer(panoElement, viewerOpts);
 
   // Supabase base URL for single images
-  var SUPABASE_BASE_URL = 'https://ggzftdlppjdrqugcrhgz.supabase.co/storage/v1/object/public/convineo/images';
+  var SUPABASE_BASE_URL = 'https://ggzftdlppjdrqugcrhgz.supabase.co/storage/v1/object/public/convenio/images';
   var SUPABASE_IMAGES_URL = 'https://ggzftdlppjdrqugcrhgz.supabase.co/storage/v1/object/public/iittnifvirtualtour/images%20(1)/img';
   var USE_SUPABASE = true;
 
